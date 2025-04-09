@@ -22,6 +22,18 @@ For example, to install deepseek-r1 model, from your termial you need to run,
 ```
 ollama run deepseek-r1:1.5b
 ```
+
+Once downloaded, you can chat directly in the terminal. But if you want to exit from the conversation enter, 
+```
+/bye
+```
+
+to see the downloaded models list, 
+```
+ollama list
+```
+
+
 N:B: Select smaller model (e.g. 1 billion parameters) to run it on you CPU.
 
 ### 2. Python Libraries
