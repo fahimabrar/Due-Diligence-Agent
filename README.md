@@ -11,6 +11,9 @@ What is unique here,
 - This is locally hosted LLM (so no one gets your data)
 - You have more control about the knowledge source (e.g. selecting best knowledge source)
 
+Here is a quick demo, 
+[![Youtube Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5YVAtmZamtg)
+
 ### 1. Install LLM and Embeddings model,
 
 First you need to install Ollama (https://ollama.com/) to your computer. 
