@@ -12,7 +12,7 @@ What is unique here,
 - You have more control about the knowledge source (e.g. selecting best knowledge source)
 
 Here is a quick demo, 
-[![Youtube Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5YVAtmZamtg)
+[![Youtube Demo](https://raw.githubusercontent.com/fahimabrar/Due-Diligence-Agent/refs/heads/main/Screenshot%20from%202025-04-09%2013-27-42.png?token=GHSAT0AAAAAAC74QF6OX36RVS7I7NAAJJIUZ7WNBIA)](https://www.youtube.com/watch?v=5YVAtmZamtg)
 
 ### 1. Install LLM and Embeddings model,
 
