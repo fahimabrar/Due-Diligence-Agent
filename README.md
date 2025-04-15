@@ -16,6 +16,8 @@ Here is a quick demo (click on the image to see the video demo),
 
 ### 1. Install LLM and Embeddings model,
 
+#### LLM
+
 First you need to install Ollama (https://ollama.com/) to your computer. 
 
 Install one Large Language Models from here, 
@@ -36,7 +38,13 @@ to see the downloaded models list,
 ollama list
 ```
 
+#### Embedding model, 
+You need to download an embedding model that will convert plain texts into vector representation. Here I used mxbai embed large. 
+To install it from terminal run, 
 
+```
+ollama pull mxbai-embed-large
+```
 N:B: Select smaller model (e.g. 1 billion parameters) to run it on you CPU.
 
 ### 2. Python Libraries
